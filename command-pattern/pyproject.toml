@@ -1,0 +1,6 @@
+[project]
+name = "awesomelib"
+version = "0.0.1"
+
+[project.scripts]
+awesome = "awesomelib:awesome"
