@@ -1,4 +1,4 @@
-# Usage
+# How to run
 
 ```shell
 % # Install from GitHub
